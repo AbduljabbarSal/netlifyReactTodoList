@@ -1,5 +1,4 @@
 import React from 'react';
-import { Todo } from "react-todo-component";
 
 const TodoList = () => {
   return (
@@ -12,7 +11,6 @@ const TodoList = () => {
 
       <div className='todoList'>
 
-        <Todo></Todo>
 
       </div>
     </>

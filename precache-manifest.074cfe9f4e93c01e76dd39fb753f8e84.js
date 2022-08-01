@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01f003ac4219a241e73508080c524774",
+    "revision": "d41ff1196ca1a20229591dc4c7f64295",
     "url": "/netlifyReactTodoList/index.html"
   },
   {
-    "revision": "acb8ad259eef07393dd1",
+    "revision": "a24b2d3d3d092e2a4a66",
     "url": "/netlifyReactTodoList/static/css/main.b2691028.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netlifyReactTodoList/static/js/2.467834fc.chunk.js"
   },
   {
-    "revision": "acb8ad259eef07393dd1",
-    "url": "/netlifyReactTodoList/static/js/main.56761f67.chunk.js"
+    "revision": "a24b2d3d3d092e2a4a66",
+    "url": "/netlifyReactTodoList/static/js/main.88279f92.chunk.js"
   },
   {
     "revision": "4681f6451f13c12cb3c7",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/netlifyReactTodoList/static/css/main.b2691028.chunk.css",
-    "main.js": "/netlifyReactTodoList/static/js/main.56761f67.chunk.js",
-    "main.js.map": "/netlifyReactTodoList/static/js/main.56761f67.chunk.js.map",
+    "main.js": "/netlifyReactTodoList/static/js/main.88279f92.chunk.js",
+    "main.js.map": "/netlifyReactTodoList/static/js/main.88279f92.chunk.js.map",
     "runtime~main.js": "/netlifyReactTodoList/static/js/runtime~main.33d2f582.js",
     "runtime~main.js.map": "/netlifyReactTodoList/static/js/runtime~main.33d2f582.js.map",
     "static/js/2.467834fc.chunk.js": "/netlifyReactTodoList/static/js/2.467834fc.chunk.js",
     "static/js/2.467834fc.chunk.js.map": "/netlifyReactTodoList/static/js/2.467834fc.chunk.js.map",
     "index.html": "/netlifyReactTodoList/index.html",
-    "precache-manifest.7b7eacc20e936f3985d180cf10b85cd5.js": "/netlifyReactTodoList/precache-manifest.7b7eacc20e936f3985d180cf10b85cd5.js",
+    "precache-manifest.074cfe9f4e93c01e76dd39fb753f8e84.js": "/netlifyReactTodoList/precache-manifest.074cfe9f4e93c01e76dd39fb753f8e84.js",
     "service-worker.js": "/netlifyReactTodoList/service-worker.js",
     "static/css/main.b2691028.chunk.css.map": "/netlifyReactTodoList/static/css/main.b2691028.chunk.css.map"
   }

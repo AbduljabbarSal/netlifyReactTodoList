@@ -6,35 +6,33 @@ import Pomodoro from './Pomodoro';
 import Support from './Support';
 import About from './About';
 
-function App(props, state) {
+function App(props,state) {
   let Component;
   switch(window.location.pathname){
+    
     case "/":
       Component = About
       break
-    
     case "/TodoList":
       Component = TodoList
       break
-      
     case "/Pomodoro":
-        Component = Pomodoro
-        break
-
+      Component = Pomodoro
+      break
     case "/Support":
-        Component = Support
-        break
-        
+      Component = Support
+      break
     case "/About":
       Component = About
-      break
+      break  
   }
   
   return (
-    <>
+    <div className="App">
+
       <Navbar/>
       <Component></Component>
-    </>
+    </div>
   );
 }
 

@@ -34,9 +34,21 @@
 }
 .homeText{
   color:rgb(150, 25, 96);
-  padding-left: 33% ;
+  margin-left: 35%;
   margin-bottom: 80px;
   font-size: 2em;
+}
+.todoText{
+  color:rgb(150, 25, 96);
+  margin-left: 40%;
+  margin-bottom: 30px;
+  font-size: 2em;
+}
+.line{
+  margin-bottom: 30px;
+  height: 4px;
+  background-color:f092b8;
+
 }
 .homeText2{
   color:rgb(150, 25, 96);
@@ -44,8 +56,48 @@
   font-size: 2em;
 }
 
+.todoList{
+
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 20%;
+}
+
 ul {
   list-style-type: none;
+}
+.timerButton{
+  color:rgb(150, 25, 96);
+  border-color: rgb(150, 25, 96) ;
+  background-color:rgb(255, 189, 221);
+
+  border-radius: 50%;
+  margin-left: 52%;
+  margin-bottom: 2%;
+  height: 4em;
+  width: 10%;
+  font-size: 1.5em;
+  
+}
+
+.timerButton:hover{
+  background-color:rgb(247, 219, 237);
+}
+
+
+
+.pomText{
+  color:rgb(150, 25, 96);
+
+  margin-left: 49%;
+  margin-top: 2%;
+  font-size: 2em;
+  font-weight: bold;
+}
+.photo{
+  padding-left: 5%;
+  height: 2%;
+  width: 2%;
 }
 .list{
   -moz-border-radius: 100%;

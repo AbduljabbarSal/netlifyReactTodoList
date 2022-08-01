@@ -18,7 +18,6 @@ const Pomodoro = () => {
     endTime: 0,
     timerType: 'DECREMENTAL',
     onTimeOver: () => {
-      playAudio();
     },
   });
   return (
